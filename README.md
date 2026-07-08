@@ -5,7 +5,7 @@
 
 **Autor:** José Alejandro Jiménez Rosa\
 **Versión:** 1.0\
-**Fecha:** Julio 2026
+**Fecha:** Julio 2025
 
 ------------------------------------------------------------------------
 
